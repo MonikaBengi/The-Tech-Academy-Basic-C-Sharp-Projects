@@ -1,0 +1,7 @@
+C:\Users\lisab\Desktop\Basic_C#_Programs\StudentReport\StudentReport\bin\Debug\StudentReport.exe.config
+C:\Users\lisab\Desktop\Basic_C#_Programs\StudentReport\StudentReport\bin\Debug\StudentReport.exe
+C:\Users\lisab\Desktop\Basic_C#_Programs\StudentReport\StudentReport\bin\Debug\StudentReport.pdb
+C:\Users\lisab\Desktop\Basic_C#_Programs\StudentReport\StudentReport\obj\Debug\StudentReport.csproj.AssemblyReference.cache
+C:\Users\lisab\Desktop\Basic_C#_Programs\StudentReport\StudentReport\obj\Debug\StudentReport.csproj.CoreCompileInputs.cache
+C:\Users\lisab\Desktop\Basic_C#_Programs\StudentReport\StudentReport\obj\Debug\StudentReport.exe
+C:\Users\lisab\Desktop\Basic_C#_Programs\StudentReport\StudentReport\obj\Debug\StudentReport.pdb
