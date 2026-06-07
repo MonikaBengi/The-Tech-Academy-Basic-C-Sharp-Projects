@@ -62,7 +62,7 @@ namespace PackageExpress
             decimal quote = (width * height * length * weight) / 100;
 
             // Display the quote as a dollar amount with two decimal places
-            Console.WriteLine("Your estimated total for shipping this package is: $" + quote.ToString("0.00"));
+            Console.WriteLine($"Your estimated total for shipping this package is: {quote:C}");
 
             // Thank the user
             Console.WriteLine("Thank you!");
