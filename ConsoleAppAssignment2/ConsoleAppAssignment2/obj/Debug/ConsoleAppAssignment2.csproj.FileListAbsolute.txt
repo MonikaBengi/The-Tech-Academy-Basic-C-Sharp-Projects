@@ -1,0 +1,7 @@
+C:\Users\lisab\Desktop\Basic_C#_Programs\ConsoleAppAssignment2\ConsoleAppAssignment2\bin\Debug\ConsoleAppAssignment2.exe.config
+C:\Users\lisab\Desktop\Basic_C#_Programs\ConsoleAppAssignment2\ConsoleAppAssignment2\bin\Debug\ConsoleAppAssignment2.exe
+C:\Users\lisab\Desktop\Basic_C#_Programs\ConsoleAppAssignment2\ConsoleAppAssignment2\bin\Debug\ConsoleAppAssignment2.pdb
+C:\Users\lisab\Desktop\Basic_C#_Programs\ConsoleAppAssignment2\ConsoleAppAssignment2\obj\Debug\ConsoleAppAssignment2.csproj.AssemblyReference.cache
+C:\Users\lisab\Desktop\Basic_C#_Programs\ConsoleAppAssignment2\ConsoleAppAssignment2\obj\Debug\ConsoleAppAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\lisab\Desktop\Basic_C#_Programs\ConsoleAppAssignment2\ConsoleAppAssignment2\obj\Debug\ConsoleAppAssignment2.exe
+C:\Users\lisab\Desktop\Basic_C#_Programs\ConsoleAppAssignment2\ConsoleAppAssignment2\obj\Debug\ConsoleAppAssignment2.pdb
