@@ -9,22 +9,22 @@ using System.Threading.Tasks;
 namespace AbstractClassAsignment
 {
     class Program
-    {
-        static void Main(string[] args)
         {
-            // Creates an Employee object and assigns the required name values.
-            Employee newEmployee = new Employee
+            static void Main(string[] args)
             {
-                FirstName = "Sample",
-                LastName = "Student",
-                EmployeeNumber = 1001
-            };
+                // Creates an Employee object but stores it in an IQuittable variable.
+                IQuittable quittableEmployee = new Employee
+                {
+                    FirstName = "Sample",
+                    LastName = "Student",
+                    EmployeeNumber = 1001
+                };
 
-            // Calls the version of SayName implemented by the Employee class.
-            newEmployee.SayName();
+                // Calls the Quit method through the interface reference.
+                quittableEmployee.Quit();
 
-            // Keeps the console window open until the user presses Enter.
-            Console.ReadLine();
+                // Keeps the console window open.
+                Console.ReadLine();
+            }
         }
     }
-}
