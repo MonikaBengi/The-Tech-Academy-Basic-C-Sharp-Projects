@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AbstractClassAsignment/.vs/AbstractClassAsignment.slnx/FileContentIndex
+/AbstractClassAsignment/AbstractClassAsignment/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/AbstractClassAsignment/AbstractClassAsignment/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
